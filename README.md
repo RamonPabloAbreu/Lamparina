@@ -21,7 +21,11 @@ Utilizando a biblioteca de sinais do Windows, Lamparina tem como objetivo passar
 =============================================
 
 Para executar:
+
 1: Lamparina1
+
 2: bin
+
 3: Debug
+
 4: Run Lamparina1.exe
