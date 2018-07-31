@@ -1,0 +1,31 @@
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\obj\Debug\Lamparina1.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe.config
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\bin\Debug\Lamparina1.pdb
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\obj\Debug\Lamparina1.exe
+C:\Users\gabriel\Documents\Visual Studio 2017\Projects\Lamparina1\Lamparina1\obj\Debug\Lamparina1.pdb
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe.config
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.exe
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.pdb
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.pdb
+C:\Users\Egon FIEP\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.csprojResolveAssemblyReference.cache
+E:\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe.config
+E:\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe
+E:\Lamparina1\Lamparina1\bin\Debug\Lamparina1.pdb
+E:\Lamparina1\Lamparina1\obj\Debug\Lamparina1.csprojResolveAssemblyReference.cache
+E:\Lamparina1\Lamparina1\obj\Debug\Lamparina1.exe
+E:\Lamparina1\Lamparina1\obj\Debug\Lamparina1.pdb
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe.config
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.exe
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Debug\Lamparina1.pdb
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.exe
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Debug\Lamparina1.pdb
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\obj\Debug\Lamparina1.csprojAssemblyReference.cache
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\obj\Debug\Lamparina1.csproj.CoreCompileInputs.cache
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\obj\Debug\Lamparina1.exe
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\obj\Debug\Lamparina1.pdb
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\bin\Debug\Lamparina1.exe.config
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\bin\Debug\Lamparina1.exe
+D:\Universidade_Positivo\JudgesPlay_PI\PI_02_Positivo\Lamparina_The_Game\Lamparina\Lamparina1\bin\Debug\Lamparina1.pdb

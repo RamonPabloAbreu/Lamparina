@@ -1,0 +1,6 @@
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Release\Lamparina1.exe.config
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Release\Lamparina1.exe
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\bin\Release\Lamparina1.pdb
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Release\Lamparina1.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Release\Lamparina1.exe
+C:\Users\gabriel\Desktop\Lamparina1\Lamparina1\obj\Release\Lamparina1.pdb
